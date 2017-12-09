@@ -7,3 +7,4 @@ The Team consisted of:
 - Tomy Herseta (Interior Designer and Modeller) 
 - Elian Daiva (Programmer and Interaction Designer)
 
+More explanation regarding this project, can be found in http://eliandaiva.com/works/berdikari-vr-installation-for-london-design-biennale-2016/
